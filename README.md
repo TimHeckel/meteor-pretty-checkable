@@ -1,4 +1,5 @@
 Pretty Checkable - Meteor Smart Package
+===============
 
 This is a the [jQuery pretty checkable plugin](http://arthurgouveia.com/prettyCheckable/) as a meteor smart package.
 
