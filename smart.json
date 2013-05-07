@@ -3,6 +3,6 @@
     "description": "A jQuery plugin to replace checkboxes and radios for custom images",
     "homepage": "https://github.com/TimHeckel/meteor-pretty-checkable",
     "author": "Tim Heckel  (http://timheckel.com)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/TimHeckel/meteor-pretty-checkable.git"
 }
