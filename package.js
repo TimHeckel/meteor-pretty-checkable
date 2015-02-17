@@ -1,9 +1,11 @@
 Package.describe({
-	summary: "A jQuery plugin to replace checkboxes and radios for custom images"
+	version: "0.0.3"
+	, name: "mrt:pretty-checkable"
+	, summary: "A jQuery plugin to replace checkboxes and radios for custom images"
 });
 
 Package.on_use(function (api) {
-	api.use('jquery', 'client');
+	api.use('jquery@1.11.3', 'client');
 	api.add_files([
 		'lib/prettyCheckable.js'
 		,'lib/prettyCheckable.css'
